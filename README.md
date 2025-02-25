@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AndresMancheno
-- 👨‍💻 I’m currently working in Finetwork
+- 👨‍💻 I’m currently working in DXC Technology
 - 👀 I’m interested in all web technologies, expecially React ⚛️
 - 🌱 I’m currently learning TypeScript
 - 📫 You can reach me in:
